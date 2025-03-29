@@ -1,0 +1,29 @@
+{
+  "nemkezdodhetegyilyendekralalasnagybetuvel": "Nagyon erzekeny itt minden",
+
+
+  "welcome": "Welcome ",
+  "@welcome": {"description": ""},
+
+
+  "select": "Please select the preferred theme(Light/Dark) and hit continue",
+  "@select": {"description": ""},
+
+  "application": " app.",
+  "@application": {"description": ""},
+
+  "tothe": "to the ",
+  "@tothe": {"description": ""},
+
+  "next": "Next",
+  "@next": {"description": ""},
+
+  "addSubject": "Add Subject",
+  "@AddSubject": {"description": ""},
+
+  "subjectName": "Subject Name",
+  "@subjectName": {"description": ""},
+
+  "add": "Add",
+  "@add": {"description": ""}
+}
